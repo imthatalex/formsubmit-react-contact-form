@@ -59,7 +59,7 @@ export default function ContactForm () {
   }
 
   return (
-    <form onSubmit={(e) => e.preventDefault()} target="_blank" action="https://formsubmit.co/epic0310@gmail.com" method="POST">
+    <form onSubmit={(e) => e.preventDefault()} target="_blank" action="https://formsubmit.co/example@gmail.com" method="POST">
       <div className="container">
 
         <div className="row">

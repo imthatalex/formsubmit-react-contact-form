@@ -8,5 +8,5 @@ This program demonstrates how to build a contact form using React and FormSubmit
 - A FormSubmit.co account
 
 ## Use
-1. Download or Clone this repo
+1. Clone or download the repository
 2. Import the

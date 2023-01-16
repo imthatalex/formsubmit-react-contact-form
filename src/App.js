@@ -43,7 +43,7 @@ export default function ContactForm() {
       }
     }
     else {
-      setStatus('Please Fill Out All Fields')
+      setStatus('Please Fill Out All Fields ')
     }
   }
 

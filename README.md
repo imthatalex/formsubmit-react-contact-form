@@ -2,7 +2,7 @@
 
 ## Usage
 1. Clone or Download the Repo.
-2. In the `src` folder of your React project, create a new file called `ContactForm.js` and copy the ContactForm component.
+2. In the `src` folder of your React project, create a new file called `ContactForm.js` and copy the [ContactForm Component](/src/App.js).
 3. In the src/App.js file of your new project, import the ContactForm component and render it.
 4. Update the FormSubmit.co E-Mail
 ```html

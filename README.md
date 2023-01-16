@@ -1,4 +1,4 @@
-# Contact Form with FormSubmit.co and React
+# Contact Form with React & FormSubmit.co
 
 This program demonstrates how to build a contact form using React and FormSubmit.co.
 
